@@ -82,7 +82,7 @@ a:hover {
 .gallery {
 	display: grid;
 	grid-template-columns: repeat(8, 1fr);
-	grid-template-rows: repeat(8, 80vw);
+	grid-template-rows: repeat(8, 64vw);
 	grid-gap: 0px; 
 	margin-top: 96px;
 }
