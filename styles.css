@@ -128,7 +128,7 @@ a:hover {
     grid-row-end: 6;
 }
 /*Large View*/
-@media screen and (min-width: 768px) and (orientation: landscape){
+@media screen and (min-width: 480px) and (orientation: landscape){
 	
 .gallery {
 	display: grid;
