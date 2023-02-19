@@ -78,7 +78,6 @@ a:hover {
   box-sizing: inherit; 
 }
 /*Mobile View*/
-@media (max-width: 320px){
 .gallery {
 	display: grid;
 	grid-template-columns: repeat(8, 1fr);
@@ -128,9 +127,8 @@ a:hover {
     grid-row-start: 6;
     grid-row-end: 6;
 }
-}
 /*Large View*/
-@media (min-width: 320px){
+@media (min-width: 768px){
 	
 .gallery {
 	display: grid;
