@@ -58,7 +58,7 @@ text-align: center;
 	text-align: center;
 }
 /* Banner */
-.banner{background: #ff720c}
+.banner{background: #105d50}
 .banner-content{
 	padding: 8px;
 	max-width: 580px;
@@ -462,4 +462,5 @@ text-align: center;
     grid-row-end: 4;
 }
 }
+
 
